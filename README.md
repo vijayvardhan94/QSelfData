@@ -1,2 +1,4 @@
-# QSelfData
-Data Driven decision making for the self
+# Data Driven decison making for the self
+This project includes data driven decison making through personal analytics. I hvae chosen the following datat sources: Whatsapp chat data, Microsoft Outlook data, Fitbit activity and sleep data, Bank transaction data.
+
+
