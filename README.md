@@ -25,4 +25,5 @@ Nature of transaction
 
 
 
-Exploring another area: Sleep
+Exploring another area: Relation between steps and calories.
+For this we use the activity data from fitbit. We explore the relationship between steps taken in a day and the calories burned.
