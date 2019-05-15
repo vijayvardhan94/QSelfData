@@ -1,5 +1,8 @@
 # Data Driven decison making for the self
-This project includes data driven decison making through personal analytics. I have chosen the following data sources: Whatsapp chat data(soon), Microsoft Outlook data, Fitbit activity and sleep data, Bank transaction data.
+
+This project is aimed to be an extention of the ideas presented by the Quantified Self. I chose to answer the question: What kind of data do I generate and what insights can I gain from it?
+
+I'd like to call this idea or process as "Data driven decsion making for the self".This project includes data driven decison making through personal analytics. I have chosen the following data sources: Whatsapp chat data(soon), Microsoft Outlook data, Fitbit activity and sleep data, Bank transaction data.
 These can be grouped under a catgeory named "Personal Analytics".
 
 Almost everything we do generates data. Through Personal Analytics we tend to put ourselves in the postion of an experimental subject. By analyzing these different
