@@ -13,6 +13,7 @@ Different categories of transactions
 ![](img/Rplot01.png)
 
 Nature of transaction
+![](img/Rplot.png)
 
 
 
