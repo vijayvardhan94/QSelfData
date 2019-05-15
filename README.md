@@ -9,8 +9,10 @@ Below is an example:
 Expenses analysis:
 The data set contains all transactions made from September 2018 - Present. We perform some basic analytics such as and obtain some interesting results related to: what are the different types of transactions involved? How many times have I swiped my card? How many times did I go to a subway? 
 
-
+Different categories of transactions
 ![](img/Rplot01.png)
 
-Different kinds of transactions
+Nature of transaction
+
+
 
