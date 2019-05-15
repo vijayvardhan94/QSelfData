@@ -7,5 +7,5 @@ Almost everything we do generates data. Through Personal Analytics we tend to pu
 Expenses analysis:
 The data set contains all transactions made from September 2018 - Present. We perform some basic analyitics such as and obtain some interesting results related to: what are the different types of transactions involved? How many times have I swiped my card? How many times did I go to a subway? 
 
-![](Images/file%20spaces.png)
+![](img/Rplot01.png)
 
