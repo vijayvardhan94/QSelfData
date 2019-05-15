@@ -30,3 +30,10 @@ For this we use the activity data from fitbit. We explore the relationship betwe
 
 ![](img/Rplot3.png)
 
+We can see observe that the relation between the above two variables is of a linear nature. 
+We can also observe the relationship between the number of calories burned to that of "Very active minutes" in a day.
+
+![](img/Rplot4.png)
+
+
+
