@@ -37,7 +37,6 @@ We can also observe the relationship between the number of calories burned to th
 
 Here's another plot showing the relationship between "Very active minutes" and calories burned during those active minutes represented by "Activity Calories".
 
-
-
+![](img/Rplot05.png)
 
 
