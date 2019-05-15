@@ -31,4 +31,6 @@ ggplot(data = fitdata) +
 ggplot(data = fitdata) + 
   geom_point(mapping = aes(x = Steps, y = Minutes.Very.Active))
 
-
+#analyzing relationship between very active minutes and activity calories
+ggplot(data = fitdata) + 
+  geom_point(mapping = aes(x = Activity.Calories, y = Minutes.Very.Active))
