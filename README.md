@@ -6,7 +6,7 @@ I'd like to call this idea or process as "Data driven decsion making for the sel
 So, almost everything we do generates data. Through Personal Analytics we tend to put ourselves in the postion of an experimental subject. I just find it interesting to analyze the data that I create.
 
 Below is an example:
-Expenses analysis:
+###Expenses analysis:
 The data set contains all transactions made from September 2018 - Present. We perform some basic analytics such as and obtain some interesting results related to: what are the different types of transactions involved? How many times have I swiped my card? How many times did I go to a subway? 
 
 Different categories of transactions
@@ -24,3 +24,5 @@ Nature of transaction
 
 
 
+
+###Exploring another area: Sleep
