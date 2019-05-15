@@ -17,5 +17,10 @@ Nature of transaction
 
 ![](img/Rplot.png)
 
+         ACCT_XFER         ACH_CREDIT          ACH_DEBIT                ATM CHASE_TO_PARTNERFI 
+                29                  9                 16                  1                  8 
+     CHECK_DEPOSIT         DEBIT_CARD    FEE_TRANSACTION    QUICKPAY_CREDIT     QUICKPAY_DEBIT 
+                 2                135                  3                 29                 18 
+
 
 
